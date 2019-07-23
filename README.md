@@ -9,7 +9,7 @@
 - [DC Storymap](https://arcg.is/1rfjmH)
 
 ## Figure Links
-- [Multistakeholder partnerships](picture1.png)
+- [Multistakeholder partnerships](Picture1.png)
 - [Categories](tttt.html)
 - [Resource Taxonomy](chorddiagram.html)
 - [Threats](culturalresourcethreats.html)
