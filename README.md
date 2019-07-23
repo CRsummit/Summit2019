@@ -13,7 +13,7 @@
 ## Figure Links
 - [Multistakeholder partnerships](picture1.png)
 - [Categories](tttt.html)
-- [Resource Taxonomy](chorddiagram copy.html)
+- [Resource Taxonomy](chorddiagram.html)
 - [Threats](culturalresourcethreats.html)
 
 ## Publication Links
