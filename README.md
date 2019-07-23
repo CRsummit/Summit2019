@@ -5,8 +5,14 @@
 # Affiliated links
 
 - [Appalachian LCC Dashboard](http://applccresearch.space)
+- [NCR Storymap](https://arcg.is/1uym5q)
+- [Virginia Storymap](https://arcg.is/144H1C)
+- [Maryland Storymap](https://arcg.is/05mC1u)
+- [DC Storymap](https://arcg.is/1rfjmH)
 
 # Figure Links
+- [Categories](tttt.html)
+- [Resource Taxonomy](chorddiagram copy.html)
 - [Threats](culturalresourcethreats.html)
 
 
