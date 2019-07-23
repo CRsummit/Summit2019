@@ -1,5 +1,8 @@
 # Welcome!
 
+
+## Presentation Slides
+- [Anthropological Approaches Slides](anthropologicalapproachesslides.pdf]
 ## Affiliated links
 
 - [Appalachian LCC Dashboard](http://applccresearch.space)
@@ -18,7 +21,6 @@
 ## Publication Links
 - [Integrating natural and cultural resources in North American large-landscape conservation](https://www.tandfonline.com/doi/full/10.1080/14660466.2019.1601935)
 
-## Presentation Slides
 
 
 ![National Mall](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WashingtonDCMallAerialNavyPhoto_crop.jpg/1024px-WashingtonDCMallAerialNavyPhoto_crop.jpg)
