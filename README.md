@@ -2,7 +2,7 @@
 
 
 ## Presentation Slides
-- [Anthropological Approaches Slides](anthropologicalapproachescompressed.pdf]
+- [Anthropological Approaches Slides](anthropologicalapproachescompressed.pdf)
 ## Affiliated links
 
 - [Appalachian LCC Dashboard](http://applccresearch.space)
